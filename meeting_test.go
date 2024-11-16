@@ -9,8 +9,8 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
-	meeting "github.com/leo-andrei/slackapi"
-	"github.com/leo-andrei/slackapi/slack/mockslack"
+	meeting "github.com/leo-andrei/meeting-service"
+	"github.com/leo-andrei/meeting-service/slack/mockslack"
 )
 
 func TestSendMeetingInfo_Success(t *testing.T) {

@@ -8,9 +8,9 @@ import (
 	"syscall"
 	"time"
 
-	meeting "github.com/leo-andrei/slackapi"
-	"github.com/leo-andrei/slackapi/api"
-	"github.com/leo-andrei/slackapi/slack"
+	meeting "github.com/leo-andrei/meeting-service"
+	"github.com/leo-andrei/meeting-service/api"
+	"github.com/leo-andrei/meeting-service/slack"
 )
 
 func main() {

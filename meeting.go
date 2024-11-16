@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/leo-andrei/slackapi/slack"
+	"github.com/leo-andrei/meeting-service/slack"
 )
 
 type Payload struct {

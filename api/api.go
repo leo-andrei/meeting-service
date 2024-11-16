@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	meeting "github.com/leo-andrei/slackapi"
+	meeting "github.com/leo-andrei/meeting-service"
 )
 
 type Server struct {
