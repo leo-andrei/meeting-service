@@ -1,7 +1,5 @@
 # Meeting Summary Service
 A microservice in Go that integrates with the Slack API to deliver meeting-related information.
-This can be extended to integrate with other API by adding a new package same as /slack, and integrate the logic to use it in meeting.go. 
-You can also use the same format of this service to integrate with other API, just changing the /slack folder with your integration
 
 ## Directory Structure
 ```bash
