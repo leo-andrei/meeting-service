@@ -1,4 +1,4 @@
-module github.com/leo-andrei/slackapi
+module github.com/leo-andrei/meeting-service
 
 go 1.22.5
 
